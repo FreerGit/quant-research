@@ -1,2 +1,0 @@
-# Mean-Reversion and Optimization
-
