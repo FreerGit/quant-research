@@ -52,4 +52,11 @@ Since I have no fucking clue what the math says, I looked up summaries/explenati
     * Bid = reservation price - optimal spread / 2
     * Ask = reservation price + optimal spread / 2
   
+  `Notable assumptions`
+  Order amount is not defined
+  Volatility is constant (pre-defined)
+  Order book statistical characterization is constant (linear etc)
+  The market maker intends to maximize profit using a total inventory q during a limited T time horizon
+
+  
   
